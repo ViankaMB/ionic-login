@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-ionic-ng-de4dd": {
+      "hosting": {
+        "app": [
+          "login-ionic-ng-de4dd"
+        ]
+      }
+    }
+  }
+}
